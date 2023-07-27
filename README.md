@@ -1,0 +1,3 @@
+# Laboratorio Taller Linux
+
+En este laboratorio...
